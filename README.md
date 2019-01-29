@@ -12,3 +12,8 @@ main方法中使用对象AnnotationConfigApplicationContext往容器中注入配
             e.printStackTrace();
             System.out.println("报错");
         }
+
+
+## 代理模式
+
+  理念[https://github.com/wgc00/Java-Dyanmic-Prox/blob/master/src/main/java/notes/Spring.md]
